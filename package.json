@@ -1,0 +1,25 @@
+{
+  "name": "qa-automation-e2e-playwright",
+  "version": "1.0.0",
+  "description": "🔍 End-to-End (E2E) Automation Testing Suite for E-Commerce (QA Demo)   🚀 Tecnologías: Playwright | JavaScript | GitHub Actions (CI/CD)   📦 Target: https://tiendaqa.centyc.com.ar/",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexx007/qa-automation-e2e-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexx007/qa-automation-e2e-playwright/issues"
+  },
+  "homepage": "https://github.com/Alexx007/qa-automation-e2e-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
