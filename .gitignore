@@ -7,6 +7,4 @@ node_modules/
 /playwright/.cache/
 .env
 pages/homePage.ts
-tests/example.spec.ts
-
-
+pages/example.spec.ts
