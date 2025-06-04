@@ -8,7 +8,7 @@ import { Context } from 'vm';
 require('dotenv').config();
 
 
-test.skip("Create new user",async({page}) =>{
+test("Create new user",async({page}) =>{
   await page.goto('/');
   const newUser = new CreateAccount(page);
   const username = process.env.APP_USER as string;
